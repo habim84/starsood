@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starseed CLONE.Plugins", "Starseed CLONE.Plugins.csproj", "{ADF10293-47F4-7B2E-B85C-FDF4755A3299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starseed CLONE", "Starseed CLONE.csproj", "{6B75DB50-D8F8-8B0F-D0DD-CD32A6207E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starseed CLONE.Editor.Plugins", "Starseed CLONE.Editor.Plugins.csproj", "{FC97351B-6884-1FF0-4C76-60B1F76E9451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF10293-47F4-7B2E-B85C-FDF4755A3299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF10293-47F4-7B2E-B85C-FDF4755A3299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF10293-47F4-7B2E-B85C-FDF4755A3299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF10293-47F4-7B2E-B85C-FDF4755A3299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B75DB50-D8F8-8B0F-D0DD-CD32A6207E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B75DB50-D8F8-8B0F-D0DD-CD32A6207E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B75DB50-D8F8-8B0F-D0DD-CD32A6207E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B75DB50-D8F8-8B0F-D0DD-CD32A6207E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC97351B-6884-1FF0-4C76-60B1F76E9451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC97351B-6884-1FF0-4C76-60B1F76E9451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC97351B-6884-1FF0-4C76-60B1F76E9451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC97351B-6884-1FF0-4C76-60B1F76E9451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
